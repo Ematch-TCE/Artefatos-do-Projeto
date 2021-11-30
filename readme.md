@@ -3,7 +3,7 @@
  
  ---
  
- <p align="center">...</p>
+ <p align="center">Pensando em nossa jornada, gostariamos de destrinchar cada etapa, desde a problemática até a solução. Para isso, criamos esse repositório e adicionamos tudo o que construímos até então. Caso você queira se inspirar em alguma coisa, deixa os créditos, tá?</p>
  
   <br>
 
