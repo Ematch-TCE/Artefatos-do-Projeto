@@ -71,7 +71,9 @@
  
   <br>
  
- Sobre as entrevistas, devido a pandemia não foi possível entrevistar pessoas presencialmente, porém nos adaptamos e fizemos a nossa **[Pesquisa de Campo](https://docs.google.com/forms/d/e/1FAIpQLSez39JHXZFNIQmnBmM4HOazUgBNMmMU3dTaeF06SgSi4qdhEw/viewform)** de forma remota pelo Google Forms.
+   Em meio à pandemia não foi possível entrevistar pessoas presencialmente, mas de qualquer forma, conseguimos fazer a nossa **[pesquisa de campo](https://docs.google.com/forms/d/e/1FAIpQLSez39JHXZFNIQmnBmM4HOazUgBNMmMU3dTaeF06SgSi4qdhEw/viewform)** de forma remota pelo Google Forms.
+ 
+   Com a análise dos dados coletados, observamos que fatores como o deslocamento, o tempo gasto na procura de vagas e na entrega de currículos são coisas que fazem o candidato ficar desmotivados de certa forma.
  
   </details>
   
