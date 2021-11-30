@@ -108,7 +108,7 @@
  
  > Segue o link do [esboço](https://ematch446455214.wordpress.com/?p=38&preview=true) do site no Wordpress
  
- <img src="https://cdn.discordapp.com/attachments/912331425485848608/915358231549845514/rascunho-website-wordpress.png">
+ <img src="https://github.com/Ematch-TCE/Artefatos-do-Projeto/blob/main/images/gif-website.gif">
  
  </details>
   
