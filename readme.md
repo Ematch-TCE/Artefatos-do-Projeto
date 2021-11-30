@@ -59,8 +59,7 @@
  
   <br>
  
-  <p> Entre tantos obstáculos e dificuldades da nossa sociedade, decidimos focar nosso olhar a um setor muito importante; a economia.</p>
-  <p> Um dos problemas que mais afetam essa área, logicamente, é o desemprego. Nossa idéia visa solucionar esse desafio tão comum, já que a cada ano a porcentagem de pessoas sem carteira assinada aumenta, prejudicando gravemente a economia.</p>
+  Ao observar a sociedade, um ponto que sempre se destaca é a <b> economia. </b> Como o <b> desemprego, </b> tema que mesmo mencionado inúmeras vezes apresenta poucas soluções. Por isso, em meio ao descaso socioêconomico nos voltamos a atribuir uma solução para a <b>[ODS 8](https://www.ipea.gov.br/ods/ods8.html)</b>.
  
   </details>
   
