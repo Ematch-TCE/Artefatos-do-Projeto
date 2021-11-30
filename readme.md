@@ -65,6 +65,8 @@
  
   <br>
  
+  > Segue o link da [Matriz CSD](https://cdn.discordapp.com/attachments/912331425485848608/915351658882547722/matriz-csd.png)
+ 
   <img src="https://cdn.discordapp.com/attachments/912331425485848608/915351658882547722/matriz-csd.png">
  
   </details>
@@ -77,11 +79,14 @@
  
   <br>
  
-   Em meio à pandemia não foi possível entrevistar pessoas presencialmente, mas no fim das contas, conseguimos fazer a nossa **[pesquisa de campo](https://docs.google.com/forms/d/e/1FAIpQLSez39JHXZFNIQmnBmM4HOazUgBNMmMU3dTaeF06SgSi4qdhEw/viewform)** de forma remota pelo Google Forms.
+   Em meio à pandemia não foi possível entrevistar pessoas presencialmente, mas no fim das contas, conseguimos fazer a nossa pesquisa de campo de forma remota pelo **Google Forms**.
  
    Com a análise dos dados coletados, compreendemos que fatores como o deslocamento, o tempo gasto na procura de vagas e na entrega de currículos são algumas das dificuldades enfrentadas pelas pessoas que procuram um emprego. 
  
  <br>
+ 
+ > Segue o link do [Forms](https://docs.google.com/forms/d/e/1FAIpQLSez39JHXZFNIQmnBmM4HOazUgBNMmMU3dTaeF06SgSi4qdhEw/viewform) usado em nossa pesquisa de campo
+ 
  
  <img src="https://cdn.discordapp.com/attachments/912331425485848608/915353182174068786/pesquisa-de-campo.png">
  
