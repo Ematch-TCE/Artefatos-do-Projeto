@@ -42,7 +42,7 @@
   
   <details>
   
-   <summary><b> Sumário</b></summary>
+   <summary><b> Sumário 📝</b></summary>
  
   <br>
   
@@ -54,7 +54,7 @@
   
   <details>
   
-  <summary><b> Problemáticas</b></summary>
+  <summary><b> Problemáticas 📌</b></summary>
  
   </details>
   
@@ -62,7 +62,7 @@
    
    <details>
   
-  <summary><b> Entrevistas</b></summary>
+  <summary><b> Entrevistas 🎤</b></summary>
  
   </details>
   
@@ -70,7 +70,7 @@
    
   <details>
    
-  <summary><b> Solução</b></summary>
+  <summary><b> Solução 🎯</b></summary>
  
  </details>
   
