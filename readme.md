@@ -40,40 +40,78 @@
   
   <br>
   
-  # Sumário
+  <details>
+  
+   <summary><b>Sumário</b></summary>
+ 
+  <br>
   
   <img src="https://cdn.discordapp.com/attachments/912331425485848608/915273432449548328/linha-do-tempo.png">
+ 
+  </details>
   
   <br>
+  
+  <details>
   
   ## Problemáticas
+ 
+  </details>
   
    <br>
+   
+   <details>
   
   ## Entrevistas
+ 
+  </details>
   
    <br>
+   
+  <details>
    
   ## Solução
+ 
+ </details>
   
    <br>
    
+  <details>
+   
   ## Imersão
+ 
+ </details>
   
   <br>
+  
+  <details>
   
   ## Ideias
+ 
+ </details>
   
   <br>
+  
+  <details>
   
   ## Persona
+ 
+ </details>
   
   <br>
+  
+  <details>
   
   ## Lições Aprendidas
+ 
+ </details>
   
   <br>
   
+  <details>
+  
   ## MVP 
+ 
+ </details>
   
   <br>
