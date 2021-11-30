@@ -42,7 +42,7 @@
   
   <details>
   
-   <summary><b>Sumário</b></summary>
+   <summary><b> Sumário</b></summary>
  
   <br>
   
@@ -54,7 +54,7 @@
   
   <details>
   
-  ## Problemáticas
+  <summary><b> Problemáticas</b></summary>
  
   </details>
   
@@ -62,7 +62,7 @@
    
    <details>
   
-  ## Entrevistas
+  <summary><b> Entrevistas</b></summary>
  
   </details>
   
@@ -70,7 +70,7 @@
    
   <details>
    
-  ## Solução
+  <summary><b> Solução</b></summary>
  
  </details>
   
@@ -78,7 +78,7 @@
    
   <details>
    
-  ## Imersão
+  <summary><b> Imersão</b></summary>
  
  </details>
   
@@ -86,7 +86,7 @@
   
   <details>
   
-  ## Ideias
+  <summary><b> Ideias</b></summary>
  
  </details>
   
@@ -94,7 +94,7 @@
   
   <details>
   
-  ## Persona
+  <summary><b> Persona</b></summary>
  
  </details>
   
@@ -102,7 +102,7 @@
   
   <details>
   
-  ## Lições Aprendidas
+  <summary><b> Lições Aprendidas</b></summary>
  
  </details>
   
@@ -110,7 +110,7 @@
   
   <details>
   
-  ## MVP 
+  <summary><b> MVP</b></summary>
  
  </details>
   
