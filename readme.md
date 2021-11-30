@@ -98,6 +98,18 @@
    
   <summary><b> Solução</b></summary>
  
+  <br>
+ 
+   O Ematch seria um site de fácil acessibilidade por smartphones e computadores com o objetivo de criar uma relação mais simples entre **Empresas** e **candidatos**. Ele teria a praticidade do Tinder no momento de **aceitar/rejeitar** uma **vaga/currículo**. A lucratividade do site fluiria por meio de acordos de parceria com empresas novas e que almejam maior visibilidade, já que o Ematch não apresentaria a taxa elevada de anúncios como no LinkedIn.
+ 
+ Fizemos uma espécie de rascunho no wordpress para vermos o que ficaria bom no site e o que não ficaria.
+ 
+  <br>
+ 
+ > Segue o link do [Rascunho do Site](https://ematch446455214.wordpress.com/?p=38&preview=true) no Wordpress
+ 
+ <img src="https://cdn.discordapp.com/attachments/912331425485848608/915358231549845514/rascunho-website-wordpress.png">
+ 
  </details>
   
    <br>
