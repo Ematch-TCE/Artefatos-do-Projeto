@@ -94,7 +94,7 @@
   
   <details>
   
-  <summary><b> Persona 👩🏿‍🦱</b></summary>
+  <summary><b> Persona 👤</b></summary>
  
  </details>
   
