@@ -40,7 +40,7 @@
   
   <br>
   
-  ## Linha do Tempo
+  ## Sumário
   
   <img src="https://cdn.discordapp.com/attachments/912331425485848608/915269962065653791/linha-do-tempo.png">
   
