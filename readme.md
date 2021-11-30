@@ -46,34 +46,34 @@
   
   <br>
   
-  # Problemáticas
+  ## Problemáticas
   
    <br>
   
-  # Entrevistas
-  
-   <br>
-   
-  # Solução
+  ## Entrevistas
   
    <br>
    
-  # Imersão
+  ## Solução
+  
+   <br>
+   
+  ## Imersão
   
   <br>
   
-  # Ideias
+  ## Ideias
   
   <br>
   
-  # Persona
+  ## Persona
   
   <br>
   
-  # Lições Aprendidas
+  ## Lições Aprendidas
   
   <br>
   
-  # MVP 
+  ## MVP 
   
   <br>
