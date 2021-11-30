@@ -62,7 +62,7 @@
    
    <details>
   
-  <summary><b> Entrevistas 🎤</b></summary>
+  <summary><b> Entrevistas 📊</b></summary>
  
   </details>
   
@@ -78,7 +78,7 @@
    
   <details>
    
-  <summary><b> Imersão</b></summary>
+  <summary><b> Imersão 📚</b></summary>
  
  </details>
   
@@ -86,7 +86,7 @@
   
   <details>
   
-  <summary><b> Ideias</b></summary>
+  <summary><b> Ideias ✨</b></summary>
  
  </details>
   
@@ -94,7 +94,7 @@
   
   <details>
   
-  <summary><b> Persona</b></summary>
+  <summary><b> Persona 👩🏿‍🦱</b></summary>
  
  </details>
   
@@ -102,7 +102,7 @@
   
   <details>
   
-  <summary><b> Lições Aprendidas</b></summary>
+  <summary><b> Lições Aprendidas 💎</b></summary>
  
  </details>
   
@@ -110,7 +110,7 @@
   
   <details>
   
-  <summary><b> MVP</b></summary>
+  <summary><b> MVP 🌺</b></summary>
  
  </details>
   
