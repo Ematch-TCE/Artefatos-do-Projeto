@@ -61,6 +61,8 @@
  
   Ao observar a sociedade, um ponto que sempre se destaca é a <b> economia. </b> Como o <b> desemprego, </b> tema que mesmo mencionado inúmeras vezes apresenta poucas soluções. Por isso, em meio ao descaso socioêconomico nos voltamos a atribuir uma solução para a **[ODS 8](https://www.ipea.gov.br/ods/ods8.html)**.
  
+  E já que tínhamos definido o problema a ser trabalhado, partimos para a criação da nossa Matriz CSD (uma ferramenta que nos ajudou a dar um rumo ao projeto e a formular perguntas para a etapa que viria a seguir)
+ 
   </details>
   
    <br>
@@ -73,7 +75,7 @@
  
    Em meio à pandemia não foi possível entrevistar pessoas presencialmente, mas no fim das contas, conseguimos fazer a nossa **[pesquisa de campo](https://docs.google.com/forms/d/e/1FAIpQLSez39JHXZFNIQmnBmM4HOazUgBNMmMU3dTaeF06SgSi4qdhEw/viewform)** de forma remota pelo Google Forms.
  
-   Com a análise dos dados coletados, compreendemos que fatores como o deslocamento, o tempo gasto na procura de vagas e na entrega de currículos são algumas das dificuldades enfrentadas pelas pessoas que procuram buscam emprego.
+   Com a análise dos dados coletados, compreendemos que fatores como o deslocamento, o tempo gasto na procura de vagas e na entrega de currículos são algumas das dificuldades enfrentadas pelas pessoas que procuram um emprego. 
  
   </details>
   
