@@ -57,6 +57,11 @@
   
   <summary><b> Problemáticas</b></summary>
  
+  <br>
+ 
+  <p> Entre tantos obstáculos e dificuldades da nossa sociedade, decidimos focar nosso olhar a um setor muito importante; a economia.</p>
+  <p> Um dos problemas que mais afetam essa área, logicamente, é o desemprego. Nossa idéia visa solucionar esse desafio tão comum, já que a cada ano a porcentagem de pessoas sem carteira assinada aumenta, prejudicando gravemente a economia.</p>
+ 
   </details>
   
    <br>
