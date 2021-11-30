@@ -40,40 +40,40 @@
   
   <br>
   
-  ## Sumário
+  # Sumário
   
   <img src="https://cdn.discordapp.com/attachments/912331425485848608/915273432449548328/linha-do-tempo.png">
   
   <br>
   
-  ## Problemáticas
+  # Problemáticas
   
    <br>
   
-  ## Entrevistas
-  
-   <br>
-   
-  ## Solução
+  # Entrevistas
   
    <br>
    
-  ## Imersão
+  # Solução
+  
+   <br>
+   
+  # Imersão
   
   <br>
   
-  ## Ideias
+  # Ideias
   
   <br>
   
-  ## Persona
+  # Persona
   
   <br>
   
-  ## Lições Aprendidas
+  # Lições Aprendidas
   
   <br>
   
-  ## MVP 
+  # MVP 
   
   <br>
