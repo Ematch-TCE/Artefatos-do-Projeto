@@ -3,7 +3,7 @@
  
  ---
  
- <p align="center">Pensando em nossa jornada, gostariamos de destrinchar cada etapa, desde a problemática até a solução. Para isso, criamos esse repositório e adicionamos tudo o que construímos até então. Caso você queira se inspirar em alguma coisa, deixa os créditos, tá?</p>
+ <p align="center">Pensando em nossa jornada, gostariamos de destrinchar cada etapa, desde a problemática até o MVP. Para isso, criamos esse repositório e adicionamos tudo o que construímos até então. Caso você queira se inspirar em alguma coisa, deixa os créditos, tá?</p>
  
   <br>
 
@@ -35,9 +35,45 @@
     ·
     <a href="https://github.com/Ematch-TCE/Ematch-TCE">Apresentação</a>
     ·
-    <a href="https://github.com/Ematch-TCE/Website-Responsive-Ematch">Sobre o Website</a>
+    <a href="https://github.com/Ematch-TCE/Website-Responsive-Ematch">Website</a>
   </p>
   
   <br>
   
-  ## L
+  ## Linha do Tempo
+  
+  <img src="https://cdn.discordapp.com/attachments/912331425485848608/915269962065653791/linha-do-tempo.png">
+  
+  <br>
+  
+  ## Problemáticas
+  
+   <br>
+  
+  ## Entrevistas
+  
+   <br>
+   
+  ## Solução
+  
+   <br>
+   
+  ## Imersão
+  
+  <br>
+  
+  ## Ideias
+  
+  <br>
+  
+  ## Persona
+  
+  <br>
+  
+  ## Lições Aprendidas
+  
+  <br>
+  
+  ## MVP 
+  
+  <br>
