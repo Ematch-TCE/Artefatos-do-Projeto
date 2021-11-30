@@ -59,7 +59,7 @@
  
   <br>
  
-  Ao observar a sociedade, um ponto que sempre se destaca é a <b> economia. </b> Como o <b> desemprego, </b> tema que mesmo mencionado inúmeras vezes apresenta poucas soluções. Por isso, em meio ao descaso socioêconomico nos voltamos a atribuir uma solução para a <b>[ODS 8](https://www.ipea.gov.br/ods/ods8.html)</b>.
+  Ao observar a sociedade, um ponto que sempre se destaca é a <b> economia. </b> Como o <b> desemprego, </b> tema que mesmo mencionado inúmeras vezes apresenta poucas soluções. Por isso, em meio ao descaso socioêconomico nos voltamos a atribuir uma solução para a **[ODS 8](https://www.ipea.gov.br/ods/ods8.html)**.
  
   </details>
   
@@ -68,6 +68,10 @@
    <details>
   
   <summary><b> Entrevistas</b></summary>
+ 
+  <br>
+ 
+ Sobre as entrevistas, devido a pandemia não foi possível entrevistar pessoas presencialmente, porém nos adaptamos e fizemos a nossa **[Pesquisa de Campo](https://docs.google.com/forms/d/e/1FAIpQLSez39JHXZFNIQmnBmM4HOazUgBNMmMU3dTaeF06SgSi4qdhEw/viewform)** de forma remota pelo Google Forms.
  
   </details>
   
