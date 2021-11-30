@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/Ematch-TCE/Artefatos-do-Projeto/blob/main/images/art-artefatos.png" align="center" alt="Figura feminina" />
+ <img src="https://github.com/Ematch-TCE/Artefatos-do-Projeto/blob/main/images/art-artefatos.png" align="center" alt="Banner">
  
  ---
  
@@ -42,7 +42,7 @@
   
   ## Sumário
   
-  <img src="https://cdn.discordapp.com/attachments/912331425485848608/915269962065653791/linha-do-tempo.png">
+  <img src="https://cdn.discordapp.com/attachments/912331425485848608/915273432449548328/linha-do-tempo.png">
   
   <br>
   
