@@ -71,7 +71,11 @@
  
  <br>
  
+ <br>
+ 
   Assim que definimos o problema a ser tratado, partimos para a criação da nossa **Matriz CSD** Essa ferramenta nos ajudou a definir quais pontos poderíamos trabalhar e a formular perguntas para a etapa seguinte.
+ 
+ <br>
  
  
   > Segue o link da **[Matriz CSD](https://cdn.discordapp.com/attachments/912331425485848608/915742001494917200/matriz-csd-a.png)**
