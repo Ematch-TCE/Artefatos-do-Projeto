@@ -168,6 +168,8 @@
  
   Por fim, com a ideia consolidada e todo o processo feito, nós finalmente começamos a colocar a mão na massa de fato. O site foi feito com HTML, CSS e JS e até o atual momento não foi adicionado um banco de dados. No entanto, grande parte do site está funcional. Detalhe: Ele está hospedado e pronto para ser usado em qualquer dispositivo já que está responsivo.
  
+ <br>
+ 
  > Segue o link do **[site](https://ematch.netlify.app/)**
  
  <img src="https://cdn.discordapp.com/attachments/912331425485848608/915357279820316702/website.png">
