@@ -102,7 +102,6 @@
  
  > Segue o link do **[Forms](https://docs.google.com/forms/d/e/1FAIpQLSez39JHXZFNIQmnBmM4HOazUgBNMmMU3dTaeF06SgSi4qdhEw/viewform)** usado em nossa pesquisa de campo
  
- 
  <img src="https://cdn.discordapp.com/attachments/912331425485848608/915353182174068786/pesquisa-de-campo.png">
  
   </details>
