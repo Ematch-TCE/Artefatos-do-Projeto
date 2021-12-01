@@ -41,21 +41,15 @@
   <br>
   <br>
   
-  <details>
   
-   <summary><b> Sumário</b></summary>
+ # Sumário
  
-  <br>
- 
-   Através deste Sumário, estaremos apontando tudo o que será abordado nesse repositório.
-  
   <br>
  
  > Segue o link da **[Linha do Tempo](https://cdn.discordapp.com/attachments/912331425485848608/915273432449548328/linha-do-tempo.png)**
   
   <img src="https://cdn.discordapp.com/attachments/912331425485848608/915273432449548328/linha-do-tempo.png">
- 
-  </details>
+
   
   <br>
   
@@ -71,9 +65,9 @@
  
   <br>
  
-  > Segue o link da **[Matriz CSD](https://cdn.discordapp.com/attachments/912331425485848608/915351658882547722/matriz-csd.png)**
+  > Segue o link da **[Matriz CSD](https://cdn.discordapp.com/attachments/912331425485848608/915742001494917200/matriz-csd-a.png)**
  
-  <img src="https://cdn.discordapp.com/attachments/912331425485848608/915351658882547722/matriz-csd.png">
+  <img src="https://cdn.discordapp.com/attachments/912331425485848608/915742001494917200/matriz-csd-a.png">
  
   </details>
   
