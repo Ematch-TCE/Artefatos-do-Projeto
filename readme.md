@@ -71,7 +71,7 @@
  
   <br>
  
-  > Segue o link da **[Matriz CSD](https://cdn.discordapp.com/attachments/912331425485848608/915351658882547722/matriz-csd.png)** usada na etapa da problemática
+  > Segue o link da **[Matriz CSD](https://cdn.discordapp.com/attachments/912331425485848608/915351658882547722/matriz-csd.png)**
  
   <img src="https://cdn.discordapp.com/attachments/912331425485848608/915351658882547722/matriz-csd.png">
  
@@ -108,7 +108,7 @@
  
    O Ematch seria um site de fácil acessibilidade por smartphones e computadores com o objetivo de criar uma relação mais simples entre **Empresas** e **candidatos**. Ele teria a praticidade do Tinder no momento de **aceitar/rejeitar** uma **vaga/currículo**. A lucratividade do site fluiria por meio de acordos de parceria com empresas novas e que almejam maior visibilidade, já que o Ematch não apresentaria a taxa elevada de anúncios como no LinkedIn.
  
- Fizemos uma espécie de rascunho no wordpress para vermos o que ficaria bom no site e o que não ficaria.
+   Fizemos uma espécie de rascunho no wordpress para termos ideia do que encaixar ou não no site. E com o tempo fomos ajustando o design.
  
   <br>
  
