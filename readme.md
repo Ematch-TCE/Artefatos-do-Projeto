@@ -3,7 +3,7 @@
  
  ---
  
- <p align="center">Pensando em nossa jornada, gostariamos de destrinchar cada etapa, desde a problemática até o MVP. Para isso, criamos esse repositório e adicionamos tudo o que construímos até então. Caso você queira se inspirar em alguma coisa, deixa os créditos, tá?</p>
+ <p align="center">Pensando em nossa jornada, decidimos destrinchar pra vocês o que precisamos ter feito para chegar até o MVP. Para isso, criamos esse repositório e adicionamos tudo o que construímos em conjunto até então. Caso você queira se inspirar em alguma coisa, deixa os créditos, tá?</p>
  
   <br>
 
