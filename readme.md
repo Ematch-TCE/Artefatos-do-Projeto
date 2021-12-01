@@ -46,9 +46,9 @@
  
   <br>
  
- > Segue o link da **[Linha do Tempo](https://cdn.discordapp.com/attachments/912331425485848608/915273432449548328/linha-do-tempo.png)**
+ > Segue o link da **[Linha do Tempo](https://cdn.discordapp.com/attachments/912331425485848608/915743690113314846/sumario-linha.png)**
   
-  <img src="https://cdn.discordapp.com/attachments/912331425485848608/915273432449548328/linha-do-tempo.png">
+  <img src="https://cdn.discordapp.com/attachments/912331425485848608/915743690113314846/sumario-linha.png">
 
   
   <br>
