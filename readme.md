@@ -61,9 +61,13 @@
  
   Ao observar a sociedade, um ponto que sempre se destaca é a <b> economia. </b> Como o <b> desemprego, </b> tema que mesmo mencionado inúmeras vezes apresenta poucas soluções. Por isso, em meio ao descaso socioêconomico nos voltamos a atribuir uma solução para a **ODS 8**.
  
+ <br>
+ 
  > Segue o link do **[Problema](https://cdn.discordapp.com/attachments/912331425485848608/915744444987346985/qual-o-problema.png)**
  
  <img src="https://cdn.discordapp.com/attachments/912331425485848608/915744444987346985/qual-o-problema.png">
+ 
+ <br>
  
  <br>
  
