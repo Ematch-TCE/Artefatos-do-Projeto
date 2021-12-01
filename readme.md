@@ -166,7 +166,7 @@
  
   <br>
  
-  Por fim, com a ideia consolidada e todo o processo feito, nós finalmente começamos a colocar a mão na massa de fato. O site foi feito com HTML, CSS e JS e até o atual momento não foi adicionado um banco de dados. No entanto, grande parte do site está funcional. Detalhe: Ele está hospedado e pronto para ser usado em qualquer dispositivo já que está responsivo.
+  Por fim, com tudo definido e consolidado, nós finalmente começamos a colocar a mão na massa de fato. O site foi feito com HTML, CSS e JS, ainda sem um banco de dados mas estamos trabalhando nisso. Detalhe: Já está hospedado e pronto para ser usado em qualquer dispositivo já que está responsivo.
  
  <br>
  
