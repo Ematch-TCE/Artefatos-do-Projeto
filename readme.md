@@ -51,7 +51,7 @@
   
   <br>
  
- > Segue o link da [Linha do Tempo](https://cdn.discordapp.com/attachments/912331425485848608/915273432449548328/linha-do-tempo.png)
+ > Segue o link da **[Linha do Tempo](https://cdn.discordapp.com/attachments/912331425485848608/915273432449548328/linha-do-tempo.png)**
   
   <img src="https://cdn.discordapp.com/attachments/912331425485848608/915273432449548328/linha-do-tempo.png">
  
@@ -71,7 +71,7 @@
  
   <br>
  
-  > Segue o link da [Matriz CSD](https://cdn.discordapp.com/attachments/912331425485848608/915351658882547722/matriz-csd.png) usada na etapa da problemática
+  > Segue o link da **[Matriz CSD](https://cdn.discordapp.com/attachments/912331425485848608/915351658882547722/matriz-csd.png)** usada na etapa da problemática
  
   <img src="https://cdn.discordapp.com/attachments/912331425485848608/915351658882547722/matriz-csd.png">
  
@@ -91,7 +91,7 @@
  
  <br>
  
- > Segue o link do [Forms](https://docs.google.com/forms/d/e/1FAIpQLSez39JHXZFNIQmnBmM4HOazUgBNMmMU3dTaeF06SgSi4qdhEw/viewform) usado em nossa pesquisa de campo
+ > Segue o link do **[Forms](https://docs.google.com/forms/d/e/1FAIpQLSez39JHXZFNIQmnBmM4HOazUgBNMmMU3dTaeF06SgSi4qdhEw/viewform)** usado em nossa pesquisa de campo
  
  
  <img src="https://cdn.discordapp.com/attachments/912331425485848608/915353182174068786/pesquisa-de-campo.png">
@@ -112,7 +112,7 @@
  
   <br>
  
- > Segue o link do [esboço](https://ematch446455214.wordpress.com/?p=38&preview=true) do site no Wordpress
+ > Segue o link do **[esboço](https://ematch446455214.wordpress.com/?p=38&preview=true)** do site no Wordpress
  
  <img src="https://github.com/Ematch-TCE/Artefatos-do-Projeto/blob/main/images/gif-website.gif">
  
