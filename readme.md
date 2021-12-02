@@ -132,6 +132,10 @@
    
   <summary><b> Imersão</b></summary>
  
+ <br>
+ 
+ aaa
+ 
  </details>
   
   <br>
@@ -139,6 +143,10 @@
   <details>
   
   <summary><b> Ideias</b></summary>
+ 
+  <br>
+ 
+  aaa
  
  </details>
   
@@ -148,6 +156,10 @@
   
   <summary><b> Persona</b></summary>
  
+  <br>
+ 
+  aaa
+ 
  </details>
   
   <br>
@@ -155,6 +167,10 @@
   <details>
   
   <summary><b> Lições Aprendidas</b></summary>
+ 
+  <br>
+ 
+  aaa
  
  </details>
   
