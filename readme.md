@@ -137,6 +137,8 @@
   Nessa etapa nós deveriamos começar a seleção de ideias usando uma técnica/ferramenta de ideação. O que não foi tão difícil já que o grupo desde o início tem uma dinâmica muito boa. 
  
  </details>
+ 
+ <br>
    
   <details>
    
