@@ -127,6 +127,16 @@
  </details>
   
    <br>
+  
+  <details>
+  
+  <summary><b> Ideias</b></summary>
+ 
+  <br>
+ 
+  Nessa etapa nós deveriamos começar a seleção de ideias usando uma técnica/ferramenta de ideação. O que não foi tão difícil já que o grupo desde o início tem uma dinâmica muito boa. 
+ 
+ </details>
    
   <details>
    
@@ -135,18 +145,6 @@
  <br>
  
  aaa
- 
- </details>
-  
-  <br>
-  
-  <details>
-  
-  <summary><b> Ideias</b></summary>
- 
-  <br>
- 
-  aaa
  
  </details>
   
