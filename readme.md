@@ -73,7 +73,7 @@
  
  <br>
  
-  Assim que definimos o problema a ser tratado, partimos para a criação da nossa **Matriz CSD** Essa ferramenta nos ajudou a definir quais pontos poderíamos trabalhar e a formular perguntas para a etapa seguinte.
+  Assim que definimos o problema a ser tratado, partimos para a criação da nossa **Matriz CSD**: uma ferramenta que nos ajudou a definir pontos a serem trabalhados e a formular perguntas para a etapa seguinte.
  
  <br>
  
