@@ -184,6 +184,18 @@ Aqui nós idealizamos um possível cliente que podemos alcançar com o projeto, 
  
   <br>
   
+  <details>
+  
+  <summary><b>  Equipe </b></summary>
+ 
+  <br>
+ 
+  Tudo isso não seria possível sem a contribuição e desempenho de todas elas.
+ 
+ <img src="https://cdn.discordapp.com/attachments/925439012397809694/1050204637497667634/Ematch_-_2B.png">
+ 
+ <br>
+  
    ##
  
  <br>
