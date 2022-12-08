@@ -146,7 +146,7 @@
  
   <br>
  
-Aqui nós idealizamos um possível cliente que podemos alcançar com o projeto e listamos dificuldades baseadas em situações presentes na realidade de muitas pessoas desempregadas.
+Aqui nós idealizamos um possível cliente que podemos alcançar com o projeto, e listamos dificuldades baseadas em situações presentes na realidade de muitas pessoas desempregadas.
  
   <img src="https://cdn.discordapp.com/attachments/925439012397809694/1050196210809577482/Ematch_-_Personas_-_Ana_Batriz_Elisa_Vitoria_Isabela_Viana_Ludmylla_Dias_Maria_Eduarda_e_Tayna_Menezes_-_2B.png">
  
