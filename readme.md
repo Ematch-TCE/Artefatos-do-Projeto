@@ -172,7 +172,7 @@ Aqui nós idealizamos um possível cliente que podemos alcançar com o projeto e
  
   <br>
  
-  Por fim, todo o esforço e energia colocado sobre o projeto resultou n  com HTML, CSS e JS, ainda sem um banco de dados mas estamos trabalhando nisso. Detalhe: Já está hospedado e pronto para ser usado em qualquer dispositivo já que está responsivo.
+  Por fim, todo o esforço e energia colocado sobre o projeto resultou nisso: O site. Produzido a partir do HTML, CSS e Javascript, essa é uma plataforma responsiva e funcional. Sem contar com a fluidez e praticidade.
  
  <br>
  
