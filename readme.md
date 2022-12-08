@@ -125,18 +125,6 @@
  <img src="https://github.com/Ematch-TCE/Artefatos-do-Projeto/blob/main/images/gif-website.gif">
  
  </details>
-  
-   <br>
-  
-  <details>
-  
-  <summary><b> Ideias</b></summary>
- 
-  <br>
- 
-  Nessa etapa nós deveriamos começar a seleção de ideias usando uma técnica/ferramenta de ideação. O que não foi tão difícil já que o grupo desde o início tem uma dinâmica muito boa. 
- 
- </details>
  
  <br>
    
@@ -146,7 +134,7 @@
  
  <br>
  
- aaa
+ <img src="https://cdn.discordapp.com/attachments/925439012397809694/1050196185903808532/download.png">
  
  </details>
   
@@ -158,7 +146,9 @@
  
   <br>
  
-  aaa
+Aqui nós idealizamos um possível cliente que podemos alcançar com o projeto e listamos dificuldades baseadas em situações presentes na realidade de muitas pessoas desempregadas.
+ 
+  <img src="https://cdn.discordapp.com/attachments/925439012397809694/1050196210809577482/Ematch_-_Personas_-_Ana_Batriz_Elisa_Vitoria_Isabela_Viana_Ludmylla_Dias_Maria_Eduarda_e_Tayna_Menezes_-_2B.png">
  
  </details>
   
@@ -170,7 +160,7 @@
  
   <br>
  
-  aaa
+  Pesquisamos, analisamos e nos permitimos conhecer mais sobre essa condição social que afeta boa parte da população em todo o mundo. E acreditamos que o estudo em volta dessa ODS nos agregou e muito com relação a forma como enxergamos o mundo, de como precisamos melhorá-lo e no sentido de aprendizado quanto ao gerenciamento de projetos. 
  
  </details>
   
@@ -182,7 +172,7 @@
  
   <br>
  
-  Por fim, com tudo aprimorado, nós finalmente começamos a colocar a mão na massa de fato. O site foi feito com HTML, CSS e JS, ainda sem um banco de dados mas estamos trabalhando nisso. Detalhe: Já está hospedado e pronto para ser usado em qualquer dispositivo já que está responsivo.
+  Por fim, todo o esforço e energia colocado sobre o projeto resultou n  com HTML, CSS e JS, ainda sem um banco de dados mas estamos trabalhando nisso. Detalhe: Já está hospedado e pronto para ser usado em qualquer dispositivo já que está responsivo.
  
  <br>
  
